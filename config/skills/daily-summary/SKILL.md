@@ -18,7 +18,7 @@ Summarize what was accomplished in this conversation session and append it to `/
 
 ## Format
 
-Use this org-mode structure:
+Use this org-mode structure (only include sections if they have content):
 
 ```org
 * <timestamp> Session Summary
